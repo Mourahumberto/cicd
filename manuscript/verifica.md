@@ -38,5 +38,5 @@ São testes direto na api
 
 São testes feitos diretos na interface gráfica como se fossem feitas diretamente pelo usuário.
 
-<img src="img/testing-pyramide.png"  width="250" height="200">
+<img src="img/testing-pyramide.png"  width="350" height="250">
 
