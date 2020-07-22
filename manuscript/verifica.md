@@ -12,6 +12,6 @@ nem um pacote ou variável inexistente, com detalhes mais básicos.
 Tipos de empacotadores:
 1.1) MAVEN/JAVA
 
-![](imG/Maven_logo.png)
+![](img/Maven_logo.png)
 
 
