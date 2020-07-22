@@ -38,6 +38,5 @@ São testes direto na api
 
 São testes feitos diretos na interface gráfica como se fossem feitas diretamente pelo usuário.
 
-![](img/testing-pyramide.png)
-<img src="img/testing-pyramide.png"  width="100" height="120">
+<img src="img/testing-pyramide.png"  width="250" height="200">
 
