@@ -15,7 +15,7 @@ Tipos de empacotadores:
 
 1.1) MAVEN/JAVA
 
-![](img/Maven_logo.png)
+<img src="img/Maven_logo.png"  width="500" height="250">
 
 ### 2)Estárica
 
@@ -24,7 +24,7 @@ possa causar nullpointer.
 
 2.1) SONARQUBE
 
-![](img/sonarqube.png)
+<img src="img/sonarqube.png"  width="500" height="250">
 
 ### 3)Unitário
 
