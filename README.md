@@ -7,4 +7,5 @@ Este livro irá mostrar dos conceitos de CI e CD até a criação de um cluster 
 ## Sumário
 
 1. [Introdução](manuscript/intro.md)
+2. [Verificações](manuscript/verifica.md)
 
