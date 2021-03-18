@@ -4,7 +4,8 @@ Este livro irá mostrar dos conceitos de CI e CD até a criação de um cluster 
 
 > Autor: **[Humberto Moura](https://github.com/Mourahumberto)**
 
-## Sumário
+
+### Sumário
 
 1. [Introdução](manuscript/intro.md)
 2. [Verificações](manuscript/verifica.md)
